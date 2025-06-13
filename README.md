@@ -1,4 +1,3 @@
-````markdown
 # 📦 Terraform CLI - Essential Commands
 
 This documentation covers the main terminal (CLI) commands used in Terraform, with explanations and practical examples.
@@ -10,7 +9,6 @@ Initializes the working directory containing `.tf` files and downloads necessary
 ```bash
 terraform init
 ```
-````
 
 **Example:**
 
@@ -219,7 +217,3 @@ terraform test
 
 - [Terraform CLI Docs](https://developer.hashicorp.com/terraform/cli)
 - [Terraform Best Practices Guide](https://developer.hashicorp.com/terraform/tutorials)
-
-```
-
-```
